@@ -57,7 +57,6 @@ def calculate_demographic_data(print_data=True):
 
     top_IN_occupation = earn_india
 
-    # DO NOT MODIFY BELOW THIS LINE
 
     if print_data:
         print("Number of each race:\n", race_count) 
